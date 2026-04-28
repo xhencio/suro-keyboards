@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.vite-cache/
+font-downloads/
+*.log
+suro-hero-screenshot.png
+.env
+.env.*
+!.env.example
