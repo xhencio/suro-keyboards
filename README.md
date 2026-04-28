@@ -1,3 +1,4 @@
+<img width="1280" height="634" alt="image" src="https://github.com/user-attachments/assets/1ec0dbeb-cf19-4f3e-8a1c-e769d20ce4cd" />
 # SURO Keyboards
 
 Premium keyboard landing page built around soft motion, product-focused imagery, and a calm blue visual system.
